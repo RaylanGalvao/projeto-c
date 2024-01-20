@@ -8,4 +8,6 @@ int main(){
     cin >> a;
     cin >> b;
     cout << a + b << endl;
+
+    system('pause');
 }
