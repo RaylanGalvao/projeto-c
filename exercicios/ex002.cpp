@@ -9,5 +9,5 @@ int main(){
     cin >> b;
     cout << a + b << endl;
 
-    system('pause');
+    system("pause");
 }
