@@ -11,6 +11,5 @@ int main(){
     preco = latas *80;
     cout << "quantidade de latas de tintas: " << latas <<endl;
     cout << "preco total: " << preco <<  endl;
-
     return 0;
 }
