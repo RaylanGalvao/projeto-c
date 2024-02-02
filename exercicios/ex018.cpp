@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//comando do loop for
 int main(){
     /*
     for(iniciacao; condicional; incremento/decremento){

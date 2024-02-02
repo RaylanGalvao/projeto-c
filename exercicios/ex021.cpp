@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 using namespace std;
-
+//argumento para a funcao main, argc e argv
 int main(int argc, char*argv[]){
     if (argc > 1){
         if (!strcmp(argv[1], "sol")){

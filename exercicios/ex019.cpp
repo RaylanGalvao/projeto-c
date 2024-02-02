@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//array vetor
 int main(){
     int vetor[5];
     int i;

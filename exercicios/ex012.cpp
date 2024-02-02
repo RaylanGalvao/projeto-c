@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//operadores and, or, not
 int main(){
     int num;
     /*

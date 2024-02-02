@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//comando do laco while
 int main(){
     int n;
     n=0; 

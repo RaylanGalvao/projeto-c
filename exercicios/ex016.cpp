@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//comando break
 int main(){
     int cont;
     cont =0;

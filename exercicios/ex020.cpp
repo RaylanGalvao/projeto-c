@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//array bidimencional e matriz
 int main(){
     int matriz [3][4];
     int l, c;

@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-
+    //operado ternario
     int n1, n2, nota;
     string res;
 

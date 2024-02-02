@@ -4,6 +4,7 @@ using namespace std;
 int fatorial(int n);
 int fibonacci (int n);
 int main(){
+    //fatorial/fibonacci
     int val, res;
     val=3;
     res=fatorial(val);

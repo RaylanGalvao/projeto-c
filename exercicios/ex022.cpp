@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//funcoes
 void texto();
 void soma(int n1, int n2);
 int soma2(int n1, int n2);

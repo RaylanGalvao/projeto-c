@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// comando swith case
 int main(){
     int val;
     cout << "selecione uma cor: " << endl;
