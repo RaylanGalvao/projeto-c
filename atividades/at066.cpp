@@ -4,20 +4,21 @@ using namespace std;
 
 int main(){
 
-    int numero;
+    int numero, i;
     bool primo; 
     cout << "digite um numero para ve se ele e primo" << endl;
     cin >> numero;
     primo=true;
-    for (int i=2; i<numero; i++){
-        
-        if(numero%i==0){
+    for (i=2; i<numero; i++){
+        while(numero%i==0){
             primo=false;
-            cout << "nao e primo";
+            cout << "divisivel por: " << i << endl;
             break;
         }
-    }
-    if(primo){
+    }if (primo==false){
+            cout << "nao e primo"<< endl;
+        }
+    else{
         cout << "primo";
     }
 
