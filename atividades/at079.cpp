@@ -4,13 +4,17 @@ using namespace std;
 
 int main(){
 
-    float salario=1000;
-    int z;
-    for (int i=1995 z=0; i<=2024 z<=24<; i++, z++){
-        salario=salario(salario*(0.015*z));
-        cout << "salario em: "<< i << " valor: " <<  salario << endl;
+    float salario;
+    cout << "digite seu salario inicial" << endl;
+    cin >> salario;
+    salario=salario+(salario*0.015);
+    
+    for (int i=1; i<29; i++){
+        salario=salario+(salario*0.03);
+        cout << "ano de: " << 1996+i << endl;
+        cout << "salario: " << salario << endl;
+        
     }
 
-
-    return 0
+    return 0;
 }
